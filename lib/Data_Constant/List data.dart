@@ -1,0 +1,1 @@
+List<String> names = ["All","Important","Favourite","New","My Collection","Secrets","Personal Data","Today","Yesterday","Goal"];
